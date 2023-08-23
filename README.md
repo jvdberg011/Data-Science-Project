@@ -1,10 +1,16 @@
 # Data-Science-Project
 
-Data Science Programming project for University of Southern California (USC) Viterbi School of Engineering.
+Graduate Student data science programming project for University of Southern California (USC) Viterbi School of Engineering.
 
-Project intends to gather information from 3 distinct data sets in Los Angeles during the year of 2021:  Crime, Local Weather, and Space Weather Events
+Project intends to gather the following information about Los Angeles during the year of 2021:  Crime, Local Weather, and Space Weather Events.
 
-Hypothesis:  Is there a correlation between anomalous Local Weather and/or Space Weather events resulting in an increase or decrease in reported crime.
+Project Requirements:
+1.	Minimum of 3 data sources
+2.	Use of Web Scraping for one data source
+3.	Use of a public API for one data source
+4.	Use of a .CSV for one data source
+
+Hypothesis:  Is there a correlation between anomalous Local Weather and/or Space Weather events resulting in an increase or decrease in reported crime?
 
 						
 # INITIAL SETUP
