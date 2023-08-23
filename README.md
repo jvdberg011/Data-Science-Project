@@ -62,7 +62,7 @@ Required Python Modules:
 
 # OPERATION
 
-    NOTE 4:  Program includes various wait parameters to adequantely load and render websites in a browser in order to scrape data sources
+    NOTE 3:  Program includes various wait parameters to adequantely load and render websites in a browser in order to scrape data sources
 		 # 2 (converts dynamic JS tables (Selenium) to HTML (BeautifulSoup)), and # 3 (DONKI - NASA Public API).  Script will regularly
 		 provide status updates throughout operation till completed.
 
