@@ -1,6 +1,6 @@
 # Data-Science-Project
 
-Graduate Student data science programming project for University of Southern California (USC) Viterbi School of Engineering.
+University of Southern California (USC) Viterbi School of Engineering, M.S. graduate student data science programming project.
 
 Project intends to gather the following information about Los Angeles during the year of 2021:  Crime, Local Weather, and Space Weather Events.
 
